@@ -88,8 +88,8 @@ generate reports, and maintain structured criminal data securely.
 
 ## 👩‍💻 Author
 
-**Amudhakavi S**
-**Gopika Ganesan**
+**Amudhakavi S,**
+**Gopika Ganesan,**
 **Harini LV**
 
 ------------------------------------------------------------------------
